@@ -1,4 +1,2 @@
 # app-tutor
-
-<img width="1600" alt="image" src="https://github.com/uchaan/app-tutor/assets/46271173/b8e82f1c-d0bb-49a1-bd0c-f0a6efec03d6">
-
+<img width="1500" alt="image" src="https://github.com/uchaan/app-tutor/assets/46271173/aedd50f8-53f5-49d4-8886-3c2aae9949b0">
